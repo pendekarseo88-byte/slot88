@@ -7,10 +7,10 @@
 <link rel="amphtml" href="https://beta.slot88-game.com/">
     <link rel="icon" type="image/x-icon" href="https://img-mgscorp.kangpermen13.workers.dev/favvvvv-mgs88.png" />
     <link rel="apple-touch-icon" href="https://img-mgscorp.kangpermen13.workers.dev/favvvvv-mgs88.png">
-    <link rel="canonical" href="https://www.atelierswauters.be/fr/">
-    <link rel="alternate" hreflang="id-id" href="https://www.atelierswauters.be/fr/"/>
-    <link rel="alternate" hreflang="id" href="https://www.atelierswauters.be/fr/"/>
-    <link rel="alternate" hreflang="x-default" href="https://www.atelierswauters.be/fr/"/>
+    <link rel="canonical" href="https://abc-f.ru/">
+    <link rel="alternate" hreflang="id-id" href="https://abc-f.ru/"/>
+    <link rel="alternate" hreflang="id" href="https://abc-f.ru/"/>
+    <link rel="alternate" hreflang="x-default" href="https://abc-f.ru/"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@600;700;800;900&display=swap" rel="stylesheet">
@@ -22,7 +22,7 @@
     <meta property="og:title" content="SLOT88: LINK RESMI SLOT GACOR HARI INI AUTO JACKPOT">
     <meta property="og:description" content="Aplikasi Slot88 hadir dengan akses mobile yang praktis untuk Android dan iOS. Nikmati tampilan simpel, navigasi mudah, dan pengalaman digital yang lebih fleksibel.">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://www.atelierswauters.be/fr/">
+    <meta property="og:url" content="https://abc-f.ru/">
     <meta property="og:site_name" content="SLOT88">
     <meta property="og:locale" content="id_ID">
     <meta property="og:image" content="https://lattemild.site/ms/99ee601a-fd54-4ec4-bd62-dd87ee7dd531.webp">
@@ -40,19 +40,19 @@
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": "https://www.atelierswauters.be/fr/#website",
-          "url": "https://www.atelierswauters.be/fr/",
+          "@id": "https://abc-f.ru/#website",
+          "url": "https://abc-f.ru/",
           "name": "SLOT88",
           "alternateName": "SLOT88 Official",
           "description": "SLOT88: Link resmi slot gacor hari ini dengan peluang menang besar dan auto jackpot.",
           "inLanguage": "id-ID",
-          "publisher": { "@id": "https://www.atelierswauters.be/fr/#organization" }
+          "publisher": { "@id": "https://abc-f.ru/#organization" }
         },
         {
           "@type": "Organization",
-          "@id": "https://www.atelierswauters.be/fr/#organization",
+          "@id": "https://abc-f.ru/#organization",
           "name": "SLOT88 Official",
-          "url": "https://www.atelierswauters.be/fr/",
+          "url": "https://abc-f.ru/",
           "logo": {
             "@type": "ImageObject",
             "url": "https://img-mgscorp.kangpermen13.workers.dev/renew_logo_MGS88_600_x_200_copy.png",
@@ -69,20 +69,20 @@
         },
         {
           "@type": "WebPage",
-          "@id": "https://www.atelierswauters.be/fr/#webpage",
-          "url": "https://www.atelierswauters.be/fr/",
+          "@id": "https://abc-f.ru/#webpage",
+          "url": "https://abc-f.ru/",
           "name": "SLOT88: LINK RESMI SLOT GACOR HARI INI AUTO JACKPOT",
           "description": "Aplikasi Slot88 hadir dengan akses mobile yang praktis untuk Android dan iOS. Nikmati tampilan simpel, navigasi mudah, dan pengalaman digital yang lebih fleksibel.",
-          "isPartOf": { "@id": "https://www.atelierswauters.be/fr/#website" },
+          "isPartOf": { "@id": "https://abc-f.ru/#website" },
           "inLanguage": "id-ID",
-          "breadcrumb": { "@id": "https://www.atelierswauters.be/fr/#breadcrumb" }
+          "breadcrumb": { "@id": "https://abc-f.ru/#breadcrumb" }
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://www.atelierswauters.be/fr/#breadcrumb",
+          "@id": "https://abc-f.ru/#breadcrumb",
           "itemListElement": [
-            { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://www.atelierswauters.be/fr/" },
-            { "@type": "ListItem", "position": 2, "name": "SLOT88", "item": "https://www.atelierswauters.be/fr/" }
+            { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://abc-f.ru/" },
+            { "@type": "ListItem", "position": 2, "name": "SLOT88", "item": "https://abc-f.ru/" }
           ]
         }
       ]
@@ -342,7 +342,7 @@
     <div class="ambient-bg"></div>
 
     <header class="site-header">
-        <a href="https://www.atelierswauters.be/fr/">
+        <a href="https://abc-f.ru/">
             <img src="https://img-mgscorp.kangpermen13.workers.dev/renew_logo_MGS88_600_x_200_copy.png" alt="SLOT88 Logo">
         </a>
     </header>
@@ -355,7 +355,7 @@
                 APK <span>SLOT88 untuk Android dan IOS Link Resmi</span>
             </h1>
             <p class="hero-sub">Aplikasi Slot88 hadir dengan akses mobile yang praktis untuk Android dan iOS. Nikmati tampilan simpel, navigasi mudah, dan pengalaman digital yang lebih fleksibel.</p>
-            <a href="https://www.atelierswauters.be/fr/" class="hero-cta" target="_blank" rel="nofollow noopener">
+            <a href="https://abc-f.ru/" class="hero-cta" target="_blank" rel="nofollow noopener">
                 🎰 Masuk Link Resmi
             </a>
 
@@ -470,7 +470,7 @@
             <div class="cta-section">
                 <h3>🎰 Siap Coba Link Resmi SLOT88?</h3>
                 <p>Akses langsung dari browser — tanpa unduh, tanpa ribet.</p>
-                <a href="https://www.atelierswauters.be/fr/" class="btn-cta" target="_blank" rel="nofollow noopener">
+                <a href="https://abc-f.ru/" class="btn-cta" target="_blank" rel="nofollow noopener">
                     🔥 Masuk Link Resmi
                 </a>
             </div>
